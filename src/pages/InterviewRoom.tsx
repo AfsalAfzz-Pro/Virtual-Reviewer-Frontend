@@ -444,7 +444,7 @@ export default function InterviewRoom() {
                     borderRadius: 1,
                   }}
                 >
-                  http://127.0.0.1:8000
+                  https://virtual-reviewer-backend.onrender.com
                 </Box>
                 . Please check if the backend server is running and try again.
               </Typography>
